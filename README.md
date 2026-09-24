@@ -116,5 +116,4 @@ Ab `http://localhost:5173` par website khulegi.
 | Charts             | Recharts         |
 
 ---
-**Project by:** Nancy Raj (Roll No: 2401531530011, Section 3F)
-**Supervisor:** Mr. Yogendra
+
